@@ -8,5 +8,11 @@ int main(){
 
     scanf("%d%c %d%c", &num1, &p, &num2, &p);
     printf("%d%c %d%c", num1, p, num2, p);
+
+    // scanf("%d%% %d%%", &num1, &num2);
+    // printf("%d%% %d%%", num1, num2);
+
+    // scanf("%d %d", &num1, &num2);
+    // printf("%da %db", num1, num2);
     return 0;   
 }
