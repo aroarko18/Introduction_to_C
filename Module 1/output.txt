@@ -1,1 +1,9 @@
-10000000000
+
+what is your name???
+You name:  @
+
+what is your age???
+Your age: 6422404
+
+what is your grade in last exam???
+Your grade: 0.00
