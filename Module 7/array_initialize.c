@@ -2,9 +2,9 @@
 
 int main()
 {
-    int arr[3] = {23, 34};
+    int arr[5] = {23, 34};
 
-    for (int i = 0; i < 3; i++)
+    for (int i = 0; i < 5; i++)
     {
         printf("%d\n", arr[i]);
     }
