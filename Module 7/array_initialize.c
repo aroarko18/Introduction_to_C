@@ -2,14 +2,7 @@
 
 int main()
 {
-    int arr[3];
-
-    for (int i = 0; i < 3; i++)
-    {
-        int a;
-        scanf("%d", &a);
-        arr[i] = a;
-    }
+    int arr[3] = {23, 34};
 
     for (int i = 0; i < 3; i++)
     {
