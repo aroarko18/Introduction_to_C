@@ -3,19 +3,21 @@
 int main()
 {
     int n;
-    do
-    {
-        scanf("%d", &n);
-    } while (n < 1 || n > 1000);
+    // do
+    // {
+    //     scanf("%d", &n);
+    // } while (n < 1 || n > 1000);
+    scanf("%d", &n);
 
     int arr[n];
 
     for (int i = 0; i < n; i++)
     {
-        do
-        {
-            scanf("%d", &arr[i]);
-        } while (arr[i] < 0 || arr[i] > 1000);
+        // do
+        // {
+        //     scanf("%d", &arr[i]);
+        // } while (arr[i] < 0 || arr[i] > 1000);
+        scanf("%d", &arr[i]);
     }
 
     for (int i = n - 1; i >= 0; i--)
