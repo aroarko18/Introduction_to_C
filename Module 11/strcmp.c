@@ -7,7 +7,7 @@ int main()
     scanf("%s %s", a, b);
 
     int cmp = strcmp(a, b);
-    // printf("%d", cmp);
+    printf("%d", cmp);
     if (cmp < 0)
     {
         printf("A Chuto\n");
