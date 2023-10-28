@@ -1,6 +1,2 @@
-x address - 0061FF10
-ptr address - 0061FF10
-ptr2 address - 0061FF10
-Value of x - 100.53
-Value of ptr - 100.53
-Value of ptr2 - 100.53
+Address of x 0061FF00
+Adress of x in main 0061FF1C
