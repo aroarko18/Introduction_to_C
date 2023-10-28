@@ -1,2 +1,1 @@
-Address of x 0061FF00
-Adress of x in main 0061FF1C
+Value of x - 500
