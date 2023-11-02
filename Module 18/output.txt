@@ -1,2 +1,1 @@
-1
-Not a null matrix
+Not a diagonal matrix
